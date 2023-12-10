@@ -1,0 +1,8 @@
+BIG DATA:   (3V's)
+    -Volume     |
+    -Variety    |
+    -Veloocity  |
+
+    -Verocity   |
+    -Value      |
+    
